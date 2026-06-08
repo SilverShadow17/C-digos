@@ -1,0 +1,196 @@
+.rav__1 {
+  width: 480px;
+  height: auto;
+  padding: 40px;
+  border: var(--ravc2);
+  background-size: cover!important;
+  background-attachment: scroll;
+}
+.rav__2 {
+  width: 450px;
+  height: auto;
+  padding: 10px;
+  background-color: var(--ravc3);
+  border: var(--ravc2);
+}
+.rav__3 {
+  width: 440px;
+  height: 120px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: var(--ravc2);
+}
+.rav__4 {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-size: cover !important;
+}
+.rav__5 {
+  width: 350px;
+  font-family: Rubik Distressed;
+  font-size: 25px;
+  color: var(--ravc4);
+  text-transform: uppercase;
+}
+.rav__5 text {
+  font-size: 12px;
+  font-family: londrina sketch;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+.rav__6 {
+  width: 452px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  gap: 10px;
+  border-bottom: var(--ravc2);
+  border-left: var(--ravc2);
+  border-right: var(--ravc2);
+}
+.rav__7 {
+  width: 150px;
+  font-family: Rubik Distressed;
+  font-size: 10px;
+  color: var(--ravc4);
+  text-transform: uppercase;
+}
+.rav__8 {
+  width: 350px;
+  height: auto;
+  padding: 5px;
+  font-size: 14px;
+  font-family: montserrat;
+  color: var(--ravc5);
+  line-height: 100%;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.rav__8 strong {
+  font-size: 15px;
+  color: var(--ravc4);
+  font-weight: 800;
+}
+.rav__8 i {
+  font-size: 15px;
+  color: var(--ravc4);
+}
+.rav__8::first-letter {
+  font-size: 55px;
+  font-weight: 400;
+  color: var(--ravc4);
+  font-family: rubik distressed;
+  float: left;
+  position: relative;
+  line-height: 100%;
+  padding-right: 10px;
+}
+.rav__9 {
+  width: 440px;
+  height: auto;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  border: var(--ravc2);
+}
+.rav__10 {
+  width: 200px;
+  height: auto;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.rav__11 {
+  width: 200px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border: var(--ravc2);
+}
+.rav__12 {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background-size: cover !important;
+}
+.rav__13 {
+  width: 130px;
+  font-family: Rubik Distressed;
+  font-size: 10px;
+  color: var(--ravc4);
+  text-transform: uppercase;
+  line-height: 100%;
+}
+.rav__13 text {
+  font-size: 5px;
+  font-family: "Montserrat";
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.rav__14 {
+  width: 230px;
+  height: 105px;
+  overflow: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 5px;
+}
+.rav__15 {
+  width: auto;
+  height: 20px;
+  padding: 4px;
+  font-family: rubik distressed;
+  font-size: 10px;
+  text-transform: uppercase;
+  border-bottom: var(--ravc2);
+  color: var(--ravc4);
+}
+.rav__15:hover {
+  border: var(--ravc2);
+}
+.rav__15 a {
+  color: var(--ravc4);
+}
+.rav__14::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+.rav__14::-webkit-scrollbar:vertical {
+  width: 5px;
+}
+.rav__14::-webkit-scrollbar-button:increment,
+.contenedor::-webkit-scrollbar-button {
+  display: none;
+}
+.rav__14::-webkit-scrollbar:horizontal {
+  height: 5px;
+}
+.rav__14::-webkit-scrollbar-thumb {
+  background-color: var(--ravc4);
+}
+.rav__14::-webkit-scrollbar-track {
+  border-radius: 0px;
+}
+.ravcredit {
+  width: 600px;
+  margin-top: 10px;
+}
+.ravcredit i {
+  font-size: 12px;
+  color: var(--ravc4);
+}
