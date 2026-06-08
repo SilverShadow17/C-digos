@@ -1,0 +1,102 @@
+.rav__16 {
+  width: 380px;
+  height: auto;
+  padding: 40px;
+  border: var(--ravc2);
+  background: url(https://assets.isu.pub/document-structure/210629171934-c90c80b31053f657e751cb2a59e0e252/v1/656a0e9227e15030e4ea3e926da6d471.jpeg);
+  background-size: cover;
+  background-attachment: scroll;
+}
+.rav__17 {
+  width: 350px;
+  height: auto;
+  padding: 10px;
+  background-color: var(--ravc3);
+  border: var(--ravc2);
+}
+.rav__18 {
+  width: 340px;
+  height: 120px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: var(--ravc2);
+}
+.rav__19 {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-size: cover !important;
+}
+.rav__20 {
+  width: 250px;
+  font-family: Rubik Distressed;
+  font-size: 25px;
+  color: var(--ravc4);
+  text-transform: uppercase;
+}
+.rav__20 text {
+  font-size: 12px;
+  font-family: londrina sketch;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+.rav__21 {
+  width: 352px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  gap: 10px;
+  border-bottom: var(--ravc2);
+  border-left: var(--ravc2);
+  border-right: var(--ravc2);
+}
+.rav__22 {
+  width: 150px;
+  font-family: Rubik Distressed;
+  font-size: 10px;
+  color: var(--ravc4);
+  text-transform: uppercase;
+}
+.rav__23 {
+  width: 320px;
+  height: auto;
+  padding: 5px;
+  font-size: 14px;
+  font-family: montserrat;
+  color: var(--ravc5);
+  line-height: 100%;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.rav__23 strong {
+  font-size: 15px;
+  color: var(--ravc4);
+  font-weight: 800;
+}
+.rav__23 i {
+  font-size: 15px;
+  color: var(--ravc4);
+}
+.rav__23::first-letter {
+  font-size: 55px;
+  font-weight: 400;
+  color: var(--ravc4);
+  font-family: rubik distressed;
+  float: left;
+  position: relative;
+  line-height: 100%;
+  padding-right: 10px;
+}
+.ravcredit {
+  width: 600px;
+  margin-top: 10px;
+}
+.ravcredit i {
+  font-size: 12px;
+  color: var(--ravc4);
+}

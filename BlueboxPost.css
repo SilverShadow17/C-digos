@@ -1,0 +1,162 @@
+.blueboxPost {
+  width: 500px;
+  height: auto;
+  padding: 10px 10px 0 10px;
+  box-sizing: border-box;
+  background-color: var(--blueC1);
+  overflow: hidden;
+}
+
+.bluebox3Post {
+  width: 160px;
+  height: 300px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.bluebox4Post {
+  width: 305px;
+  height: 300px;
+  font-size: 14px;
+  font-family: montserrat;
+  line-height: 100%;
+  text-align: justify;
+  padding: 10px;
+  color: var(--blueC4);
+  margin-top: 10px;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+.bluebox4Post strong {color: var(--blueC2);
+font-weight:600;}
+
+.bluebox4Post i {color: var(--blueC2);
+font-weight:200;
+font-style:italic;}
+
+.bluebox4Post::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+.bluebox4Post::-webkit-scrollbar:vertical {
+  width: 5px;
+}
+.bluebox4Post::-webkit-scrollbar-button:increment,
+.contenedor::-webkit-scrollbar-button {
+  display: none;
+}
+.bluebox4Post::-webkit-scrollbar:horizontal {
+  height: 5px;
+}
+.bluebox4Post::-webkit-scrollbar-thumb {
+  background-color: var(--blueC2);
+}
+.bluebox4Post::-webkit-scrollbar-track {
+  border-radius: 0px;
+}
+.bluebox3Post__box {
+  width: 500px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.bluebox5Post__box {
+  width: 500px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  margin-left: -10px;
+  margin-top: 10px;
+  background-color: var(--blueC5);
+}
+.bluebox5Post__box-1 {
+  width: 350px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-left: 20px;
+}
+.bluebox5Post__box-1 h2 {
+  font-family: protest guerrilla;
+  font-size: 35px;
+  color: var(--blueC2);
+  line-height: 0.8;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  margin-left: -0px;
+  z-index: 1;
+}
+
+.bluebox5Post {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  position: relative;
+  border: 10px solid var(--blueC2);
+  padding: 5px;
+  margin-top: -50px;
+  margin-left: -20px;
+}
+.bluebox5Post img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: right;
+  border-radius: 100%;
+}
+
+.bluebox5Post__box icon {
+  width: 30px;
+  height: 30px;
+  color: var(--blueC2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 250px;
+  opacity: 0.5;
+  position: relative;
+  margin-left: 0px;
+  rotate: 145deg;
+  margin-top: -30px;
+  z-index: 0;
+}
+
+.bluebox2Post__box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 3px;
+  margin-top: 25px;
+  width: 500px;
+  margin-left: -10px;
+}
+.bluebox2Post__box-1 {
+  width: 160px;
+  height: 20px;
+  background-color: var(--blueC2);
+  color: var(--blueC3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: bona nova SC;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.bluecredit {
+  width: 600px;
+  margin-top: 10px;
+}
+.bluecredit i {
+  font-size: 12px;
+  color: var(--blueC2);
+}
+
